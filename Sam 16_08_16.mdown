@@ -1,0 +1,9 @@
+# Stuff I learnt
+
+Google has a cool site to help you making a site that is entirley google styling. and you can quickly build nice stuff using it =]
+
+Lot of people annoyed by learning to code and where to start.
+
+People really want an app when what they actually want is a web-app.
+
+We need to make a site for the group that documents what we're up to and projects people can get involved in and act like a FOSS community
